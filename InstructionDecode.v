@@ -36,14 +36,15 @@ module InstructionDecode(reset,
 	output ReadData2_sel;
 	reg ReadData2_sel;
 	output [31:0] im;
-	reg wb_data_sel;
-	reg wb_addr_sel;
-	reg PC_sel;
-	reg wb_write_en;
 	output wb_data_sel;
 	output PC_sel;
 	output wb_addr_sel;
 	output wb_write_en;
+	reg wb_data_sel;
+	reg wb_addr_sel;
+	reg PC_sel;
+	reg wb_write_en;
+	
 	output [4:0] wb_addr1;
 	output [4:0] wb_addr2;
 

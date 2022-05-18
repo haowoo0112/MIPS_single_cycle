@@ -6,7 +6,7 @@ module Memory_access(PCNext,
 	input [31:0] PCNext;
 	input [31:0] ALU_result;
 	input PC_sel;
-	output [31:0] PCNext_final
+	output [31:0] PCNext_final;
 
 	mux_2to1_32bit PC_sec(.out(PCNext_final), 
 						.inA(PCNext), 

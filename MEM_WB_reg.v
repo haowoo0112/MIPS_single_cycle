@@ -45,7 +45,7 @@ module MEM_WB_reg(
     begin
     	if (~reset)begin
     		ALU_result_out <= 32'd0;
-			mem_data_out< <= 32'd0;
+			mem_data_out <= 32'd0;
 			wb_write_en_out <= 1'd0;
 			wb_addr_sel_out <= 1'b0;
 			wb_data_sel_out <= 1'b0;
@@ -54,7 +54,7 @@ module MEM_WB_reg(
     	end
     	else begin
     		ALU_result_out <= ALU_result_in;
-			mem_data_out< <= mem_data_in;
+			mem_data_out <= mem_data_in;
 			wb_write_en_out <= wb_write_en_in;
 			wb_addr_sel_out <= wb_addr_sel_in;
 			wb_data_sel_out <= wb_data_sel_in;
