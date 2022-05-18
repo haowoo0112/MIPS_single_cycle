@@ -7,15 +7,15 @@ module DataMemory(Address, rdata, wdata, wen, clk, reset);
     reg [31:0] mem[0:1024];
 
 	initial begin
-		$readmemb("data.dat", mem);
+		$readmemb("data.txt", mem);
 	end
 	
 	always @(posedge clk) begin
-		rdata <= mem[Address>>2];
+		rdata <= mem[Address];
 	end
 	
 	always @(posedge clk) begin
-		mem[Address>>2] <= wdata;
+		mem[Address] <= wdata;
 	end
 
 endmodule

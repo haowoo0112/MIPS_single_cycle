@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Users/USER/Desktop/1101_hw2/01_RTL
 vALU
-Z0 !s110 1652858560
+Z0 !s110 1652860580
 !i10b 1
 !s100 d?YIOGQk8HK[i[QVbo:CO1
 IXWe9`86[IkejVKYMlJIRj1
@@ -23,7 +23,7 @@ Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1652858560.000000
+Z5 !s108 1652860580.000000
 Z6 !s107 testbed_temp.v|mux_2to1_5bit.v|mux_2to1_32bit.v|core.v|Write_back.v|RegisterFile.v|ProgramCounter.v|PCAdder4.v|Memory_access.v|MEM_WB_reg.v|InstructionMemory.v|InstructionFetch.v|InstructionDecode.v|IF_ID_reg.v|ID_EX_reg.v|Execution.v|EX_MEM_reg.v|DataMemory.v|ALU.v|
 Z7 !s90 -reportprogress|300|ALU.v|DataMemory.v|EX_MEM_reg.v|Execution.v|ID_EX_reg.v|IF_ID_reg.v|InstructionDecode.v|InstructionFetch.v|InstructionMemory.v|MEM_WB_reg.v|Memory_access.v|PCAdder4.v|ProgramCounter.v|RegisterFile.v|Write_back.v|core.v|mux_2to1_32bit.v|mux_2to1_5bit.v|testbed_temp.v|
 !i113 1
@@ -52,11 +52,11 @@ R8
 vDataMemory
 R0
 !i10b 1
-!s100 lW[>Hb7mgk:kE>[465NC^2
-IWUmg54<LTG8T?db5[1RD=3
+!s100 j7OKkZ0XR;45hDSHYYfN;0
+IiGJicUX4OkVJmGTL=`oIL2
 R1
 R2
-R3
+w1652860082
 8DataMemory.v
 FDataMemory.v
 L0 1
@@ -386,11 +386,11 @@ n@register@file
 vtestbed
 R0
 !i10b 1
-!s100 2`d9T6?M4UW7448h@dfIg1
-Ig<W0e51D2i[[kLHOa3XTo2
+!s100 XMFFlWE9I74Il<_FUo;MD1
+IGISBBHWki2m^bajAEPDD[0
 R1
 R2
-R3
+w1652860574
 8testbed_temp.v
 Ftestbed_temp.v
 L0 7

@@ -45,16 +45,16 @@ module testbed;
 		.Address(imem_addr),
 		.Instruction(imem_inst)
 	);
-	/*
-	data_mem  u_data_mem (
-		.i_clk(clk),
-		.i_rst_n(rst_n),
-		.i_wen(dmem_wen),
-		.i_addr(dmem_addr),
-		.i_wdata(dmem_wdata),
-		.o_rdata(dmem_rdata)
+	
+	DataMemory  u_data_mem (
+		.clk(clk),
+		.reset(rst_n),
+		.wen(dmem_wen),
+		.Address(dmem_addr),
+		.wdata(dmem_wdata),
+		.rdata(dmem_rdata)
 	);
-	*/
+	
 
 
 
