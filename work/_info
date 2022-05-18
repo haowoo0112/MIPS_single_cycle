@@ -7,420 +7,420 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Users/USER/Desktop/1101_hw2/01_RTL
+dC:/Users/USER/Desktop/1101_hw2/01_RTL
 vALU
-Z1 !s110 1652856497
+Z0 !s110 1652858560
 !i10b 1
 !s100 d?YIOGQk8HK[i[QVbo:CO1
 IXWe9`86[IkejVKYMlJIRj1
-Z2 VDg1SIo80bB@j0V0VzS_@n1
-Z3 dC:/Users/CYTENA/Desktop/MIPS_single_cycle
-Z4 w1652855866
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/CYTENA/Desktop/MIPS_single_cycle
+Z3 w1652855866
 8ALU.v
 FALU.v
 L0 1
-Z5 OV;L;10.5b;63
+Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z6 !s108 1652856497.000000
-Z7 !s107 testbed_temp.v|mux_2to1_5bit.v|mux_2to1_32bit.v|core.v|Write_back.v|RegisterFile.v|ProgramCounter.v|PCAdder4.v|Memory_access.v|MEM_WB_reg.v|InstructionMemory.v|InstructionFetch.v|InstructionDecode.v|IF_ID_reg.v|ID_EX_reg.v|Execution.v|EX_MEM_reg.v|DataMemory.v|ALU.v|
-Z8 !s90 -reportprogress|300|ALU.v|DataMemory.v|EX_MEM_reg.v|Execution.v|ID_EX_reg.v|IF_ID_reg.v|InstructionDecode.v|InstructionFetch.v|InstructionMemory.v|MEM_WB_reg.v|Memory_access.v|PCAdder4.v|ProgramCounter.v|RegisterFile.v|Write_back.v|core.v|mux_2to1_32bit.v|mux_2to1_5bit.v|testbed_temp.v|
+Z5 !s108 1652858560.000000
+Z6 !s107 testbed_temp.v|mux_2to1_5bit.v|mux_2to1_32bit.v|core.v|Write_back.v|RegisterFile.v|ProgramCounter.v|PCAdder4.v|Memory_access.v|MEM_WB_reg.v|InstructionMemory.v|InstructionFetch.v|InstructionDecode.v|IF_ID_reg.v|ID_EX_reg.v|Execution.v|EX_MEM_reg.v|DataMemory.v|ALU.v|
+Z7 !s90 -reportprogress|300|ALU.v|DataMemory.v|EX_MEM_reg.v|Execution.v|ID_EX_reg.v|IF_ID_reg.v|InstructionDecode.v|InstructionFetch.v|InstructionMemory.v|MEM_WB_reg.v|Memory_access.v|PCAdder4.v|ProgramCounter.v|RegisterFile.v|Write_back.v|core.v|mux_2to1_32bit.v|mux_2to1_5bit.v|testbed_temp.v|
 !i113 1
-Z9 tCvgOpt 0
+Z8 tCvgOpt 0
 n@a@l@u
 vcore
-R1
+R0
 !i10b 1
-!s100 LZzzGz:9d72bUHoz;>;X_2
-IJJ`_=bSidKzIFS<g@DKan3
+!s100 LekVj4FMAbA5XMQ4YJ[8E1
+I0fn8e<IcBBQND^gS?2Kia0
+R1
 R2
-R3
-R4
+w1652857303
 8core.v
 Fcore.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 vDataMemory
-R1
+R0
 !i10b 1
 !s100 lW[>Hb7mgk:kE>[465NC^2
 IWUmg54<LTG8T?db5[1RD=3
+R1
 R2
 R3
-R4
 8DataMemory.v
 FDataMemory.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@data@memory
 vEX_in_reg
-R1
+!s110 1652857309
 !i10b 1
 !s100 o;j^A`TL0>bMmS1?dTk>^0
 I4:_ZjC:4F`e`HBJ`M3V=R2
+R1
 R2
 R3
-R4
-Z10 8EX_MEM_reg.v
-Z11 FEX_MEM_reg.v
+Z9 8EX_MEM_reg.v
+Z10 FEX_MEM_reg.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+!s108 1652857309.000000
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@e@x_in_reg
 vEX_MEM_reg
-!s110 1645348103
-!i10b 1
-!s100 35kWM[=T=gmEM@dB5EePL1
-IC3Y42T2IZcVnD0;BNcbPZ1
-R2
 R0
-w1645346343
+!i10b 1
+!s100 JVPjK`:jAcELcH9YJi0Uc2
+I4@gc?XafI7j^iJ5dnm7N_1
+R1
+R2
+w1652858537
+R9
 R10
-R11
 L0 1
-R5
+R4
 r1
 !s85 0
 31
-!s108 1645348103.000000
-!s107 testbed_temp.v|mux_2to1_32bit.v|core.v|RegisterFile.v|ProgramCounter.v|PCAdder4.v|InstructionMemory.v|InstructionFetch.v|InstructionDecode.v|IF_ID_reg.v|ID_EX_reg.v|Execution.v|EX_MEM_reg.v|DataMemory.v|ALU.v|
-!s90 -reportprogress|300|ALU.v|DataMemory.v|EX_MEM_reg.v|Execution.v|ID_EX_reg.v|IF_ID_reg.v|InstructionDecode.v|InstructionFetch.v|InstructionMemory.v|PCAdder4.v|ProgramCounter.v|RegisterFile.v|core.v|mux_2to1_32bit.v|testbed_temp.v|
+R5
+R6
+R7
 !i113 1
-R9
+R8
 n@e@x_@m@e@m_reg
 vExecution
-R1
+R0
 !i10b 1
 !s100 IT[>RWKHzQaK>k5;XzdQ92
 I^Gn_KGfV4QeDcUZjSBm092
+R1
 R2
 R3
-R4
 8Execution.v
 FExecution.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@execution
 vID_EX_reg
-R1
+R0
 !i10b 1
 !s100 :F?Q2BJmm5292CT[CR@>^3
 IH8=oAgg;;n4V8S_GYnCKX3
+R1
 R2
 R3
-R4
 8ID_EX_reg.v
 FID_EX_reg.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@i@d_@e@x_reg
 vIF_ID_reg
-R1
+R0
 !i10b 1
 !s100 46X4]K>`CP_0JR^HOioi^2
 I@OWzhImh9l[C]6UaL6]aa3
+R1
 R2
 R3
-R4
 8IF_ID_reg.v
 FIF_ID_reg.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@i@f_@i@d_reg
 vInstructionDecode
-R1
+R0
 !i10b 1
 !s100 3am13N6KWYG@?1j9Y24Uc2
 Izhnf5_ME4UPMTR^ja3m4K1
+R1
 R2
-R3
 w1652856431
 8InstructionDecode.v
 FInstructionDecode.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@instruction@decode
 vInstructionFetch
-R1
+R0
 !i10b 1
 !s100 :cGfjBmJ_iE0[:igdEE2A2
 IW:`25GFi=L;Xb^EE@MkGD3
+R1
 R2
 R3
-R4
 8InstructionFetch.v
 FInstructionFetch.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@instruction@fetch
 vInstructionMemory
-R1
+R0
 !i10b 1
 !s100 XOZ1EMfYm2ZQU`?5kj>z;0
 IfHNKMDEG>KA6U6FO=FNIm3
+R1
 R2
 R3
-R4
 8InstructionMemory.v
 FInstructionMemory.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@instruction@memory
 vMEM_WB_reg
-R1
+R0
 !i10b 1
 !s100 S1FCiZc4J20DHOLWckm?63
 IZmgGJAYO5TKTQ<f8migcS1
+R1
 R2
-R3
 w1652856471
 8MEM_WB_reg.v
 FMEM_WB_reg.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@m@e@m_@w@b_reg
 vMemory_access
-R1
+R0
 !i10b 1
 !s100 _dQ203F9kW;@;9<@Z@i0E0
 Ine=0d2oP^6>L]f1jjN`RH2
+R1
 R2
-R3
 w1652856493
 8Memory_access.v
 FMemory_access.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@memory_access
 vmux_2to1_32bit
-R1
+R0
 !i10b 1
 !s100 3e?JHHJR0[=F:>MM2nD;23
 IVof=9gOY9`Jb4aa@kPY=b0
+R1
 R2
 R3
-R4
 8mux_2to1_32bit.v
 Fmux_2to1_32bit.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 vmux_2to1_5bit
-R1
+R0
 !i10b 1
 !s100 <6?UHI<a9i6WkUG39Dz<o2
 IDJk:DEn`MiI=UD^AJRhbR2
+R1
 R2
 R3
-R4
 8mux_2to1_5bit.v
 Fmux_2to1_5bit.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 vPCAdder4
-R1
+R0
 !i10b 1
 !s100 a>VYemHfz@2CiRg;1>j6L1
 I[A87ld]:F3A7z:;HVPnk_0
+R1
 R2
 R3
-R4
 8PCAdder4.v
 FPCAdder4.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@p@c@adder4
 vProgramCounter
-R1
+R0
 !i10b 1
 !s100 _6]K0dSab2Uikz0^nBAH`0
 I1U=SOlDGD5c271zEe5WZX1
+R1
 R2
 R3
-R4
 8ProgramCounter.v
 FProgramCounter.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@program@counter
 vRegisterFile
-R1
+R0
 !i10b 1
 !s100 6H<In1n0jMZ3]jDX0=6?T3
 IHfRD@e`b[OZ^:=leo]V=I2
+R1
 R2
 R3
-R4
 8RegisterFile.v
 FRegisterFile.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@register@file
 vtestbed
-R1
+R0
 !i10b 1
 !s100 2`d9T6?M4UW7448h@dfIg1
 Ig<W0e51D2i[[kLHOa3XTo2
+R1
 R2
 R3
-R4
 8testbed_temp.v
 Ftestbed_temp.v
 L0 7
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 vWrite_back
-R1
+R0
 !i10b 1
 !s100 B]K4z8]bT10fQPY<3g3C]3
 IHjT8PLeU4e]XXL<Y3gk3j1
+R1
 R2
 R3
-R4
 8Write_back.v
 FWrite_back.v
 L0 1
-R5
+R4
 r1
 !s85 0
 31
+R5
 R6
 R7
-R8
 !i113 1
-R9
+R8
 n@write_back

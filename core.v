@@ -81,8 +81,8 @@ wire wb_addr_sel_WB;
 wire wb_data_sel_WB;
 wire [4:0] wb_addr1_WB;
 wire [4:0] wb_addr2_WB;
-wire [31:0] wb_addr_final_WB;
-wire [4:0] wb_data_final_WB;
+wire [4:0] wb_addr_final_WB;
+wire [31:0] wb_data_final_WB;
 
 // ---------------------------------------------------------------------------
 // Continuous Assignment

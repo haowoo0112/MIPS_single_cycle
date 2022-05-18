@@ -1,4 +1,4 @@
-module EX_in_reg(clk, 
+module EX_MEM_reg(clk, 
 				reset, 
 				PCNext_in, 
 				ReadData2_in,
